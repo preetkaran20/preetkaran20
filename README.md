@@ -1,5 +1,3 @@
-### Karan Preet Singh Sasan
-
 <!--
 **preetkaran20/preetkaran20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![HitCount](http://hits.dwyl.com/preetkaran20/preetkaran20.svg)
-
-### Stats
 
 ![preetkaran20's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preetkaran20)
 
