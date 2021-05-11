@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on:
   - Projects which I lead:
     - [VulnerableApp](https://github.com/SasanLabs/VulnerableApp)
+    - [VulnerableApp-facade](https://github.com/SasanLabs/VulnerableApp-facade)
   - Projects which I work on:
     - [ZAP](https://github.com/zaproxy/zaproxy) and its [add-ons](https://github.com/zaproxy/zap-extensions), etc.
       - I'm currently the author/maintainer of the [Owasp JWT Add-on](https://github.com/SasanLabs/owasp-zap-jwt-addon)
