@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on:
   - Projects which I lead:
-    - [VulnerableApp](https://github.com/SasanLabs/VulnerableApp)
-    - [VulnerableApp-facade](https://github.com/SasanLabs/VulnerableApp-facade)
+    - [OWASP VulnerableApp](https://github.com/SasanLabs/VulnerableApp)
+    - [OWASP VulnerableApp-facade](https://github.com/SasanLabs/VulnerableApp-facade)
   - Projects which I work on:
-    - [ZAP](https://github.com/zaproxy/zaproxy) and its [add-ons](https://github.com/zaproxy/zap-extensions), etc.
+    - [OWASP ZAP](https://github.com/zaproxy/zaproxy) and its [add-ons](https://github.com/zaproxy/zap-extensions), etc.
       - I'm currently the author/maintainer of the [Owasp JWT Add-on](https://github.com/SasanLabs/owasp-zap-jwt-addon)
+      - I'm currently working on [Owasp FileUpload Add-on](https://github.com/SasanLabs/owasp-zap-fileupload-addon)
 - 📫 How to reach me: ...
   - You can find me on [Twitter](https://twitter.com/sasan_karan), [LinkedIn](https://www.linkedin.com/in/karansasan), [Gmail](mailto:preetkaran20@gmail.com)
