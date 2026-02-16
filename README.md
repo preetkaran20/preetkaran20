@@ -67,5 +67,6 @@
 - Passionate about mentoring and sharing knowledge in the security community.
 
 ---
+![](https://komarev.com/ghpvc/?username=preetkaran20)
 
 *Thanks for visiting — feel free to explore my projects and contribute!* 🚀
