@@ -41,18 +41,6 @@
 
 ---
 
-## 🧠 Skills & Tools
-
-| Category | Tools & Languages |
-|----------|------------------|
-| Languages | Java, TypeScript, JavaScript |
-| Security Tools | OWASP ZAP, VulnerableApp, JWT, FileUpload |
-| Frameworks | Spring Boot, React |
-| DevOps | Docker, CI/CD, Git |
-| Concepts | DAST, Fuzzing, Scanning, Security Automation |
-
----
-
 ## 🤝 Let's Connect
 
 - 🐦 Twitter: [@sasan_karan](https://twitter.com/sasan_karan)  
