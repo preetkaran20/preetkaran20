@@ -7,13 +7,6 @@
 
 🎯 Passionate about **application security**, **vulnerable tooling**, and **community-driven open source**.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=preetkaran20&theme=radical&row=1&column=6)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=preetkaran20&theme=react-dark)
 
 ---
 
