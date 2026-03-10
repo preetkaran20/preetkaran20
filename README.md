@@ -17,7 +17,7 @@
   A scalable intentionally vulnerable app designed to help security professionals and tooling developers test vulnerabilities safely.
 
 - **[OWASP VulnerableApp-facade](https://github.com/SasanLabs/VulnerableApp-facade)**  
-  Framework for deploying and interacting with multiple vulnerable apps in a structured, distributed way.
+  Most modern lightweight distributed farm of Vulnerable Applications built for handling wide range of vulnerabilities across tech stacks.
 
 ### 🛠 Projects I Contribute To
 - **[OWASP ZAP](https://github.com/zaproxy/zaproxy)** — Widely used open-source security scanner.  
