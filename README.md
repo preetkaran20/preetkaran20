@@ -19,6 +19,9 @@
 - **[OWASP VulnerableApp-facade](https://github.com/SasanLabs/VulnerableApp-facade)**  
   Most modern lightweight distributed farm of Vulnerable Applications built for handling wide range of vulnerabilities across tech stacks.
 
+- **[LLMForge](https://github.com/SasanLabs/LLMForge)**  
+  LLMForge is a modular AI security gateway for building and testing dynamic LLM-based vulnerability labs. Designed for prompt injection research, exploit simulation, and AI attack experimentation.
+
 ### 🛠 Projects I Contribute To
 - **[OWASP ZAP](https://github.com/zaproxy/zaproxy)** — Widely used open-source security scanner.  
 - Maintainer/Author of OWASP ZAP add-ons:
