@@ -23,7 +23,7 @@
   LLMForge is a modular AI security gateway for building and testing dynamic LLM-based vulnerability labs. Designed for prompt injection research, exploit simulation, and AI attack experimentation.
 
 ### 🛠 Projects I Contribute To
-- **[OWASP ZAP](https://github.com/zaproxy/zaproxy)** — Widely used open-source security scanner.  
+- **[Zaproxy](https://github.com/zaproxy/zaproxy)** — Widely used open-source security scanner.  
 - Maintainer/Author of OWASP ZAP add-ons:
   - [JWT Add-on](https://github.com/SasanLabs/owasp-zap-jwt-addon) – Detects common JSON Web Token vulnerabilities.
   - [FileUpload Add-on](https://github.com/SasanLabs/owasp-zap-fileupload-addon) – Finds file upload misconfigurations.
