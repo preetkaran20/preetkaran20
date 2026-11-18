@@ -52,11 +52,6 @@
 
 ---
 
-## Note
-
-- Open to conversations about Principal Engineer and Engineering Leadership opportunities in distributed systems, cloud infrastructure, security and AI inference.
-  
----
 ![](https://komarev.com/ghpvc/?username=preetkaran20)
 
 *Thanks for visiting — feel free to explore my projects and contribute!* 🚀
